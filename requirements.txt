@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+pyautogui
+speechrecognition
+pyaudio
+screen-brightness-control 
+pycaw 
+numpy
